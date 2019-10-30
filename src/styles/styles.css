@@ -1,0 +1,32 @@
+html {
+    overflow: hidden;
+}
+
+.color { 
+    border: 15px solid white;
+    text-align: center;
+}
+.purple {
+    background-image: url("../images/Purple\ Background\ Large.png");
+    background-color: #4E1851
+}
+
+.orange {
+    background-image: url("../images/orange-backrgound-gradient.png")
+}
+
+.blue {
+    background-color: #1E3667 
+}
+
+.center {
+    position: relative;
+    top: 50%;
+}
+
+
+.full-page-controls{
+    display: none;
+}
+
+  
