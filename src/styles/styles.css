@@ -1,5 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One|Montserrat&display=swap");
+
 html {
     overflow: hidden;
+}
+
+.change-my-color {
+    filter: invert(99%) sepia(49%) saturate(0%) hue-rotate(247deg) brightness(113%) contrast(100%);
 }
 
 .color { 
@@ -27,6 +33,11 @@ html {
 
 .full-page-controls{
     display: none;
+}
+
+.btn-container {
+    flex-direction: row;
+
 }
 
   
